@@ -163,7 +163,7 @@ h4{
 /* ......Main-Animation...... */
 
 .main #content::before{
-  content: 'David Yosef Sasson';
+  content: '';
   text-align: center center;
   color: transparent;
   position: absolute;
